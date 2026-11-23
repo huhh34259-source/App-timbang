@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SheetQR</string>
+    <string name="tagline_offline">Offline XLSX &amp; Pemindai QRIS</string>
+    <string name="action_import_xlsx">Impor XLSX</string>
+    <string name="action_export_xlsx">Ekspor XLSX</string>
+    <string name="action_new_sheet">Buat Baru</string>
+    <string name="action_open_sample">Buka Contoh</string>
+    <string name="action_scan_qris">Scan QRIS</string>
+    <string name="action_cell_color">Warna Sel</string>
+    <string name="action_text_bold">Tebal</string>
+    <string name="action_add_row">Tambah Baris</string>
+    <string name="action_add_col">Tambah Kolom</string>
+    <string name="action_add_sheet">Tambah Sheet</string>
+    <string name="action_undo">Urungkan</string>
+    <string name="action_redo">Ulangi</string>
+    <string name="action_clear_cell">Hapus Isi</string>
+    <string name="action_gallery_qr">Dari Galeri</string>
+    <string name="action_torch">Senter</string>
+    <string name="action_back">Kembali</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_apply">Terapkan</string>
+    <string name="label_active_cell">Sel Aktif</string>
+    <string name="label_formula_hint">Ketik nilai atau rumus (contoh: =SUM(B2:B5))</string>
+    <string name="label_offline_ready">100% Offline</string>
+    <string name="camera_permission_title">Izin Kamera Diperlukan</string>
+    <string name="camera_permission_desc">SheetQR membutuhkan akses kamera untuk memindai kode QRIS secara offline dan memasukkannya langsung ke sel aktif.</string>
+    <string name="camera_permission_grant">Berikan Izin Kamera</string>
+    <string name="empty_title">Kelola XLSX &amp; Scan QRIS Secara Offline</string>
+    <string name="empty_subtitle">Impor file Excel (.xlsx), tampilkan dan hitung rumus otomatis, edit serta warnai sel, lalu scan kode QRIS langsung masuk ke sel aktif.</string>
+</resources>

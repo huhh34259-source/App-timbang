@@ -1,0 +1,6 @@
+{
+  "name": "SheetQR",
+  "description": "Aplikasi spreadsheet XLSX offline lengkap dengan dukungan rumus Excel, pewarnaan sel, pemindai QRIS otomatis ke sel aktif, dan ekspor ulang XLSX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
